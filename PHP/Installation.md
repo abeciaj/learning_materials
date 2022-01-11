@@ -1,14 +1,7 @@
 # Mac Setup
 
-## The quickest way to install php on macOS is with homebrew:
+## The quickest way to install php on macOS is with [homebrew](https://brew.sh/):
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-brew -v
-```
-
-## Installing PHP
 Installing the latest version of PHP (v8.1)
 ```
 brew install php
@@ -23,7 +16,7 @@ php -v
 # Ubuntu Setup
 
 ## Enabling PHP Repository
-Ondřej Surý, a Debian developer, maintains a repository that includes multiple PHP versions. To enable the repository , run:
+Ondřej Surý, a Debian developer, maintains a repository that includes multiple PHP versions. To enable the repository, run:
 ```
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:ondrej/php
