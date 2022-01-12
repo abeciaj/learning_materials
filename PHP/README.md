@@ -1,3 +1,6 @@
 # PHP Learning Guide
 
-### Based on [PHP The Right Way](https://phptherightway.com/)
+## Sources
+
+- https://phptherightway.com/
+- https://www.w3schools.com/
